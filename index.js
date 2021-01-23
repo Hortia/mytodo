@@ -1,6 +1,6 @@
-var container2=document.querySelector('.container2');
+var container2=document.querySelector('.container');
 var value1=document.querySelector('.input');
-var add1=document.querySelector('.ajouter');
+var add1=document.querySelector('.add');
 
 class item{
     constructor(name)

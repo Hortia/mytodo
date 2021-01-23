@@ -38,7 +38,7 @@ h1
     transition: 0.7s;
     font-size: 1.5rem;
 }
-.ajouter
+.add
 {
     outline: none;
     border: none;
@@ -55,7 +55,7 @@ h1
 {
     background-color: #F25E50;
 }
-.container2
+.container
 {
     display: flex;
     flex-direction: column;
@@ -85,6 +85,11 @@ h1
     font-size: 2rem;
     margin-left: 25px;
     cursor: pointer;
+}
+.button_cnt
+{
+   display: flex;
+   justify-content: center;
 }
 .remove_btn
 {
